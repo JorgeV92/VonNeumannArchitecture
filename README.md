@@ -20,7 +20,7 @@ This will produce an executable named simulator.
 
 # Running
 To run the simulator, use the following command:
-
+```bach
 ./simulator
 
 
