@@ -1,6 +1,8 @@
 # VonNeumannArchitecture
 
-This repository contains a basic implementation of the Von Neumann architecture written in C. This is an educational project meant to illustrate the fundamental principles of this computer architecture.
+This repository contains a basic implementation of the Von Neumann architecture written in C. Inspired by the groundbreaking work of John von Neumann, this educational project aims to illustrate the fundamental principles of this pivotal computer architecture.
+
+John von Neumann's contributions have shaped the field of computer science as we know it today, and his architectural design forms the foundation of most modern computers. By exploring this simulator, we hope to provide insight into his brilliant work and inspire future computer scientists just as von Neumann has inspired us.
 
 # Description
 VonNeumannSimulator is a simplified model of a CPU, showcasing memory, a program counter, and an accumulator. The project lets you load a program into the simulated machine's memory and execute it, instruction by instruction.
