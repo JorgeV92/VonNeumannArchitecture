@@ -13,8 +13,9 @@ To build and run this project, you will need a C compiler. This project was deve
 
 # Building
 To build the project, navigate to the directory containing von_neumann_simulator.c (or whatever the main .c file is named), and run the following command:
-
+```bash
 gcc -o simulator von_neumann_simulator.c
+```
 
 This will produce an executable named simulator.
 
@@ -22,7 +23,7 @@ This will produce an executable named simulator.
 To run the simulator, use the following command:
 ```bach
 ./simulator
-
+```
 
 # Future Enhancements
 This is a simple and basic implementation meant for educational purposes. Future enhancements could include adding more instructions, support for input and output, or even simulating devices like disks or network adapters.
